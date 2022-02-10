@@ -20,6 +20,8 @@ Space Bar: used to pause/play
 
 -Starts with a small number of bricks which increase every circle. The speed of the ball increases with difficulty indefinitely, its size decreases with difficulty until it reaches its cap in circle 5.
 
+-Every brick hit is multiplied by the current streak of bricks hit. Once the ball touches the paddle the streak resets.
+
 -There are 4 power-ups/bonuses which may proc randomly upon hitting a brick as follows:
 
   1. Big Ball: the ball becomes bigger and purple. Loses size every time it hits a brick for a total of 5 hits until the effect wears off. Proc chance: 1/25*
