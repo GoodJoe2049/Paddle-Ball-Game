@@ -17,5 +17,7 @@ Space Bar: used to pause/play
   2. +5 All Bonus: All bricks become green and count for 5 souls instead of 1. Effect wears off when the ball hits the paddle 5 times. Proc chance: 1/25
   3. +5 single Bonus: Any given brick has a chance of counting for 5 souls instead of 1 upon hit. Proc chance: 1/15
   4. Fire Ball: the ball lights on fire and burns through bricks without bouncing off them. Effect wears off when the ball hits the paddle 5 times: Proc chance: 1/25*
+    
     *Big Ball and Fire ball cannot proc simultaneously, only one may be active at a time. Thus, they share the same random variable.*
+    
 -There
